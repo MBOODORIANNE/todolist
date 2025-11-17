@@ -6,7 +6,7 @@ import lombok.*;
 @Entity                     // Cette classe représente une table en base de données
 @Table(name = "tasks")      // Nom physique de la table
 @Data                       // Génère getters/setters automatiquement
-@NoArgsConstructor
+@NoArgsConstructoret si je veux ajouter cette modification sur git comment je fais je fais dabord git add et ensuite le commit et le pushet si je veux ajouter cette modification sur git comment je fais je fais dabord git add et ensuite le commit et le push
 @AllArgsConstructor
 public class Task {
 
